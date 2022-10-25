@@ -1,35 +1,32 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Ivan</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Software Developer </h3>
+### Hi there 👋, my name is Ivan
+#### Frontend Developer (Angular | React)
+A passionate Software Developer having an experience of building Web and Mobile applications with JavaScript / Typescript / Angular / React  and some other cool libraries and frameworks.
+
+Skills: HTML / CSS / JS / TS / ANGULAR / RxJS / REACT / REDUX
+
+- 🔭 I’m currently working on crossplatform Angular | React SPA 
+- 💬 Ask me about Angular, React 
+- 📫 How to reach me: therealigmiller@gmail.com 
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/IGMiller777)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://by.linkedin.com/in/ivan-gamanovich-3786b9228/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/igmillerofficial/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://stackoverflow.com/users/17695799/)  
 
-<!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=IGMiller777&show_icons=true&count_private=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IGMiller777)  
+
+[![codewars](https://www.codewars.com/users/IGMiller777/badges/large)](https://www.codewars.com/users/IGMiller777)   
+
+![Profile views](https://gpvc.arturio.dev/IGMiller777)  
 
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-Большой (large):  
-[![codewars](https://www.codewars.com/users/IGMiller777/badges/large)](https://www.codewars.com/users/IGMiller777)   
+ 
 
-Маленький (small):  
-[![codewars](https://www.codewars.com/users/IGMiller777/badges/small)](https://www.codewars.com/users/IGMiller777) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
-<!--
-**IGMiller777/IGMiller777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://komarev.com/ghpvc/?IGMiller777)
