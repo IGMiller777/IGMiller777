@@ -19,6 +19,3 @@ Skills: HTML / CSS / JS / TS / ANGULAR / RxJS / REACT / REDUX
 
 ![Profile views](https://gpvc.arturio.dev/IGMiller777)  
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-
- 
