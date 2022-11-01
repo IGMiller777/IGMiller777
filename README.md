@@ -15,7 +15,7 @@ Skills: HTML / CSS / JS / TS / ANGULAR / RxJS / REACT / REDUX
 
 <!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=IGMiller777)   -->
 
-[![codewars](https://www.codewars.com/users/IGMiller777/badges/large)](https://www.codewars.com/users/IGMiller777)   
+[![codewars](https://www.codewars.com/users/IGMiller777/badges/medium)](https://www.codewars.com/users/IGMiller777)   
 
 ![Profile views](https://gpvc.arturio.dev/IGMiller777)  
 
