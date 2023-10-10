@@ -1,11 +1,11 @@
 ### Hi there 👋, my name is Ivan
-#### Frontend Developer (Angular | React)
-A passionate Software Developer having an experience of building Web and Mobile applications with JavaScript / Typescript / Angular / React  and some other cool libraries and frameworks.
+#### Full Stack Developer (.NET | Angular)
+A passionate Software Developer having an experience of building Web and Backend applications with JavaScript / Typescript / Angular / .NET / ASP .NET CORE  and some other cool libraries and frameworks.
 
-Skills: HTML / CSS / JS / TS / ANGULAR / RxJS / REACT / REDUX
+Skills: HTML / CSS / JS / TS / ANGULAR / RxJS / NGRX / NGXS / .NET / ASP .NET CORE
 
-- 🔭 I’m currently working on crossplatform Angular | React SPA 
-- 💬 Ask me about Angular, React 
+- 🔭 I’m currently working on crossplatform ASP NET CORE + Angular 16 application
+- 💬 Ask me about Angular, .NET 
 - 📫 How to reach me: therealigmiller@gmail.com 
 
 
