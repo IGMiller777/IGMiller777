@@ -1,7 +1,7 @@
 <div align="center">
 
-### Hi there 👋, my name is Ivan
-#### Full Stack Developer (Angular | React | Node.js | .NET)
+### Hi there 👋, 
+#### My name is Ivan. I'm a Senior Software Engineer
 
 <br>
 
